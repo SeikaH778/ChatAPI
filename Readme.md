@@ -314,3 +314,17 @@ OnMessageReceived = context =>
 ```bash
 docker exec -it chat-api env | grep Connection
 ```
+
+---
+
+## Live Demo
+
+**[EN]** A live instance is available at:
+
+**[RU]** Живой экземпляр доступен по адресу:
+
+**http://chat.declensice.dpdns.org/**
+
+**[EN]** Feel free to register an account and test the full functionality — real-time messaging, join requests, chat management.
+
+**[RU]** Можно зарегистрироваться и протестировать весь функционал — сообщения в реальном времени, заявки на вступление, управление чатами.
