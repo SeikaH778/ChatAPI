@@ -1,0 +1,11 @@
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatDomain\bin\Debug\net9.0\ChatDomain.deps.json
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatDomain\bin\Debug\net9.0\ChatDomain.dll
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatDomain\bin\Debug\net9.0\ChatDomain.pdb
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatDomain\obj\Debug\net9.0\ChatDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatDomain\obj\Debug\net9.0\ChatDomain.AssemblyInfoInputs.cache
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatDomain\obj\Debug\net9.0\ChatDomain.AssemblyInfo.cs
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatDomain\obj\Debug\net9.0\ChatDomain.csproj.CoreCompileInputs.cache
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatDomain\obj\Debug\net9.0\ChatDomain.dll
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatDomain\obj\Debug\net9.0\refint\ChatDomain.dll
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatDomain\obj\Debug\net9.0\ChatDomain.pdb
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatDomain\obj\Debug\net9.0\ref\ChatDomain.dll

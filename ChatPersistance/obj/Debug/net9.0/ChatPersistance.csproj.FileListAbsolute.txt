@@ -1,0 +1,17 @@
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\bin\Debug\net9.0\ChatPersistance.deps.json
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\bin\Debug\net9.0\ChatPersistance.runtimeconfig.json
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\bin\Debug\net9.0\ChatPersistance.dll
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\bin\Debug\net9.0\ChatPersistance.pdb
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\bin\Debug\net9.0\ChatDomain.dll
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\bin\Debug\net9.0\ChatDomain.pdb
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\obj\Debug\net9.0\ChatPersistance.csproj.AssemblyReference.cache
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\obj\Debug\net9.0\ChatPersistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\obj\Debug\net9.0\ChatPersistance.AssemblyInfoInputs.cache
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\obj\Debug\net9.0\ChatPersistance.AssemblyInfo.cs
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\obj\Debug\net9.0\ChatPersistance.csproj.CoreCompileInputs.cache
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\obj\Debug\net9.0\ChatPers.9F1BC02E.Up2Date
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\obj\Debug\net9.0\ChatPersistance.dll
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\obj\Debug\net9.0\refint\ChatPersistance.dll
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\obj\Debug\net9.0\ChatPersistance.pdb
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\obj\Debug\net9.0\ChatPersistance.genruntimeconfig.cache
+C:\Users\SeikaH\source\repos\TestChatAPI\ChatPersistance\obj\Debug\net9.0\ref\ChatPersistance.dll
