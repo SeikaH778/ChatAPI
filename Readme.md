@@ -323,7 +323,7 @@ docker exec -it chat-api env | grep Connection
 
 **[RU]** Живой экземпляр доступен по адресу:
 
-**http://chat.declensice.dpdns.org/**
+**https://chat.declensice.dpdns.org/**
 
 **[EN]** Feel free to register an account and test the full functionality — real-time messaging, join requests, chat management.
 
